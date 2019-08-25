@@ -1,0 +1,10 @@
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\bin\Debug\CPS.exe.config
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\bin\Debug\CPS.exe
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\bin\Debug\CPS.pdb
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\obj\Debug\CPS.Form1.resources
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\obj\Debug\CPS.Properties.Resources.resources
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\obj\Debug\CPS.csproj.GenerateResource.cache
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\obj\Debug\CPS.csproj.CoreCompileInputs.cache
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\obj\Debug\CPS.exe
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\obj\Debug\CPS.pdb
+\\fs1.ad.ssis.nu\16niry\Documents\Visual Studio 2017\Projects\CPS\CPS\obj\Debug\CPS.csprojResolveAssemblyReference.cache
