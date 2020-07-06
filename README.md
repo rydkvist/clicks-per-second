@@ -1,5 +1,5 @@
-# ClicksPerSecond
-A very small project I did to test out who had the fastest clicking speed of the class between me and my friends hahah..
+# ClicksPerSecond (CPS)
+A project I did to test out who had the fastest clicking speed in my class.
 
 ## What to know
 Not a serious, nor a well structured or robust code. Did it just for fun, it works perfectly though. 
