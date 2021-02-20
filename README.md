@@ -1,8 +1,8 @@
 # ClicksPerSecond (CPS)
-A project I did to test out who had the fastest clicking speed in my class.
+A project I did to see who had the fastest clicking speed in my class 😂
 
 ## What to know
-Not a serious, nor a well structured or robust code. Did it just for fun, it works perfectly though. 
+Not a serious, nor a well structured or robust code. Did it just for a quick fun, it works good though! ✌️
 
 ## Built With
 
